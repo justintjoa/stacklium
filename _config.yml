@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
+  background: url(images/bus.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
