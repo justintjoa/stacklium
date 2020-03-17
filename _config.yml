@@ -3,11 +3,5 @@ logo: "/images/bus.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
 theme: jekyll-theme-minimal
-html { 
-  background: url(images/bus.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
