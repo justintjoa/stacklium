@@ -1,7 +1,7 @@
 ## Latest News
 
 ---
-
+<link rel="stylesheet" type="text/css" media="all" href="/styles.css" />
 
 
 
